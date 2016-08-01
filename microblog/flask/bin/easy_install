@@ -1,4 +1,4 @@
-#!/home/mwongera/Flask/microblog/flask/bin/python2
+#!/home/mwongera/Flask/microblog/flask/bin/python
 
 # -*- coding: utf-8 -*-
 import re
